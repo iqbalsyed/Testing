@@ -1,5 +1,5 @@
 public class main {
-    @Test
+    @Tes@
     public void testFindMax(){
         System.out.println("test case find max");
         assertEquals(4,Calculation.FindMax(new int[]{1,3,4,2}));
